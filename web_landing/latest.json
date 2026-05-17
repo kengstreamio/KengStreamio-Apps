@@ -1,6 +1,6 @@
 {
-    "version": "v1.43.0",
+    "version": "v1.44.0",
     "apk_urls": {},
-    "date": "2026-05-10",
-    "notes": "Thêm provider Nguonc, hỗ trợ kiểm tra nguồn hàng loạt và gửi phản hồi nguồn.\\nCập nhật player cho nguồn embed với thông báo rõ ràng khi phải mở bằng Browser ngoài."
+    "date": "2026-05-17",
+    "notes": "Kiểm tra luồng nguồn và phản hồi ổn định hơn.\\nĐồng bộ ownership repo release và resolver sau reset.\\nVà nhiều cải tiến khác."
 }

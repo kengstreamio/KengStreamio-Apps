@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.43.0-blue)
+![Version](https://img.shields.io/badge/version-1.44.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,11 +10,12 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.43.0](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.43.0/kengstreamio-v1.43.0-arm64-v8a.apk)**  
-Version: `1.43.0` (build 45) · Size: ~84.1 MB · 2026-05-10
+**[Download KengStreamio v1.44.0](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.44.0/kengstreamio-v1.44.0-arm64-v8a.apk)**  
+Version: `1.44.0` (build 46) · Size: ~82.4 MB · 2026-05-17
 
-> • Thêm provider Nguonc, hỗ trợ kiểm tra nguồn hàng loạt và gửi phản hồi nguồn.
-• Cập nhật player cho nguồn embed với thông báo rõ ràng khi phải mở bằng Browser ngoài.
+> • Kiểm tra luồng nguồn và phản hồi ổn định hơn.
+• Đồng bộ ownership repo release và resolver sau reset.
+• Và nhiều cải tiến khác.
 
 ---
 
