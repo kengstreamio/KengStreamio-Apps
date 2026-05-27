@@ -1,6 +1,6 @@
 {
-    "version": "v1.44.0",
+    "version": "v1.45.0",
     "apk_urls": {},
-    "date": "2026-05-17",
-    "notes": "Kiểm tra luồng nguồn và phản hồi ổn định hơn.\\nĐồng bộ ownership repo release và resolver sau reset.\\nVà nhiều cải tiến khác."
+    "date": "2026-05-27",
+    "notes": "Sửa rophim10"
 }
