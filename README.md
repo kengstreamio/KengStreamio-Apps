@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.45.1-blue)
+![Version](https://img.shields.io/badge/version-1.46.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,10 +10,13 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.45.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.45.1/kengstreamio-v1.45.1-arm64-v8a.apk)**  
-Version: `1.45.1` (build 48) · Size: ~82.4 MB · 2026-05-27
+**[Download KengStreamio v1.46.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.46.1/kengstreamio-v1.46.1-arm64-v8a.apk)**  
+Version: `1.46.1` (build 49) · Size: ~82.4 MB · 2026-06-08
 
-> Sửa lỗi rophim10
+> • Thêm nguồn anime-1 (phim anime HH3D)
+> • Di chuyển motphimchilll, rophim10, rophim9 sang domain mới
+> • Tự động chuyển ExoPlayer khi VLC lỗi
+> • Và nhiều cải tiến khác.
 
 ---
 
