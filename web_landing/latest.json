@@ -1,6 +1,6 @@
 {
-    "version": "v1.46.1",
+    "version": "v1.47.1",
     "apk_urls": {},
-    "date": "2026-06-08",
-    "notes": "Thêm nguồn anime-1 (phim anime HH3D)"
+    "date": "2026-06-16",
+    "notes": "Trình phát video tích hợp JWPlayer với giao diện tuỳ chỉnh"
 }
