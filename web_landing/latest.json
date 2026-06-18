@@ -1,6 +1,6 @@
 {
-    "version": "v1.47.1",
+    "version": "v1.48.1",
     "apk_urls": {},
-    "date": "2026-06-16",
-    "notes": "Trình phát video tích hợp JWPlayer với giao diện tuỳ chỉnh"
+    "date": "2026-06-18",
+    "notes": "Thêm nguồn phim mới rophim13 (OnFlix) với tuyển chọn phim hot, chiếu rạp, phim lẻ & phim bộ."
 }
