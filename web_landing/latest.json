@@ -1,6 +1,6 @@
 {
-    "version": "v1.48.1",
+    "version": "v1.49.1",
     "apk_urls": {},
-    "date": "2026-06-18",
-    "notes": "Thêm nguồn phim mới rophim13 (OnFlix) với tuyển chọn phim hot, chiếu rạp, phim lẻ & phim bộ."
+    "date": "2026-06-19",
+    "notes": "Sửa lỗi điều khiển TV trên trình phát embed (D-pad/OK)."
 }
