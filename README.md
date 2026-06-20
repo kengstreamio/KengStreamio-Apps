@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.49.1-blue)
+![Version](https://img.shields.io/badge/version-1.50.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,13 +10,12 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.49.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.49.1/kengstreamio-v1.49.1-arm64-v8a.apk)**  
-Version: `1.49.1` (build 52) · Size: ~82.8 MB · 2026-06-19
+**[Download KengStreamio v1.50.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.49.1/kengstreamio-v1.49.1-arm64-v8a.apk)**  
+Version: `1.50.1` (build 53) · Size: ~82.8 MB · 2026-06-20
 
-> • Sửa lỗi điều khiển TV trên trình phát embed (D-pad/OK).
-> • Cải thiện nguồn phim Rophim13: phim-hot, lọc trailer/sắp chiếu, đồng bộ URL.
-> • Thêm Domain Registry và phát hiện loopback.
-> • Và nhiều cải tiến khác.
+> • Sửa lỗi resume sai vị trí khi chọn tập khác từ mục Đang xem
+• Cải thiện tự động skip quảng cáo và ổn định trình phát
+• Hỗ trợ chất lượng sub-server, fix 4K, migrate domain mới
 
 ---
 

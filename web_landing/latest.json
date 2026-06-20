@@ -1,6 +1,6 @@
 {
-    "version": "v1.49.1",
+    "version": "v1.50.1",
     "apk_urls": {},
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "notes": "Sửa lỗi điều khiển TV trên trình phát embed (D-pad/OK)."
 }
