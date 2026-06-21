@@ -1,6 +1,6 @@
 {
-    "version": "v1.51.1",
+    "version": "v1.55.1",
     "apk_urls": {},
     "date": "2026-06-21",
-    "notes": "Sửa crash trên TV Sony khi chuyển server hoặc thoát player"
+    "notes": "Fix crash khi chuyển server từ ExoPlayer sang WebView/JWPlayer"
 }

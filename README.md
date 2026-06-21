@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.51.1-blue)
+![Version](https://img.shields.io/badge/version-1.55.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,11 +10,12 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.51.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.51.1/kengstreamio-v1.51.1-arm64-v8a.apk)**  
-Version: `1.51.1` (build 54) · Size: ~82.8 MB · 2026-06-21
+**[Download KengStreamio v1.55.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.55.1/kengstreamio-v1.55.1-arm64-v8a.apk)**  
+Version: `1.55.1` (build 58) · Size: ~82.8 MB · 2026-06-21
 
-> • Sửa crash trên TV Sony khi chuyển server hoặc thoát player
-> • Cải thiện sắp xếp phim mới nhất cho rophim13
+> • Fix crash khi chuyển server từ ExoPlayer sang WebView/JWPlayer
+> • Giữ nguyên server index khi đổi tập hoặc play next
+> • Hỗ trợ chọn chất lượng sub-server, fix auto-click embed, D-pad TV
 
 ---
 
