@@ -1,6 +1,6 @@
 {
-    "version": "v1.50.1",
+    "version": "v1.51.1",
     "apk_urls": {},
-    "date": "2026-06-20",
-    "notes": "Sửa lỗi điều khiển TV trên trình phát embed (D-pad/OK)."
+    "date": "2026-06-21",
+    "notes": "Sửa crash trên TV Sony khi chuyển server hoặc thoát player"
 }
