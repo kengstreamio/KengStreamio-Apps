@@ -1,6 +1,6 @@
 {
-    "version": "v1.55.1",
+    "version": "v1.56.1",
     "apk_urls": {},
-    "date": "2026-06-21",
-    "notes": "Fix crash khi chuyển server từ ExoPlayer sang WebView/JWPlayer"
+    "date": "2026-06-22",
+    "notes": "Chọn server chất lượng 2 tầng (chất lượng + server con)"
 }
