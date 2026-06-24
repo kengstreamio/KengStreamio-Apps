@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.56.1-blue)
+![Version](https://img.shields.io/badge/version-1.57.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,12 +10,10 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.56.1]()**  
-Version: `1.56.1` (build 59) · Size: ~0 MB · 2026-06-22
+**[Download KengStreamio v1.57.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.57.1/kengstreamio-v1.57.1-arm64-v8a.apk)**  
+Version: `1.57.1` (build 60) · Size: ~82.8 MB · 2026-06-24
 
-> • Chọn server chất lượng 2 tầng (chất lượng + server con)
-> • Cải thiện trải nghiệm Player: pause khi mở danh sách tập
-> • Và nhiều cải tiến khác.
+> • Phát hiện và tự động bỏ qua quảng cáo trong luồng phát — xem phim mượt mà hơn.
 
 ---
 

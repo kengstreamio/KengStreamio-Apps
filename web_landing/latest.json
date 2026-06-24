@@ -1,6 +1,6 @@
 {
-    "version": "v1.56.1",
+    "version": "v1.57.1",
     "apk_urls": {},
-    "date": "2026-06-22",
-    "notes": "Chọn server chất lượng 2 tầng (chất lượng + server con)"
+    "date": "2026-06-24",
+    "notes": "Phát hiện và tự động bỏ qua quảng cáo trong luồng phát — xem phim mượt mà hơn."
 }
