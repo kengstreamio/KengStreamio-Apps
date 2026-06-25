@@ -1,6 +1,6 @@
 {
-    "version": "v1.57.1",
+    "version": "v1.58.1",
     "apk_urls": {},
-    "date": "2026-06-24",
-    "notes": "Phát hiện và tự động bỏ qua quảng cáo trong luồng phát — xem phim mượt mà hơn."
+    "date": "2026-06-25",
+    "notes": "Sửa lỗi ad-skip không hoạt động ở bản release (ProGuard/R8)"
 }

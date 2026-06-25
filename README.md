@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.57.1-blue)
+![Version](https://img.shields.io/badge/version-1.58.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,10 +10,11 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.57.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.57.1/kengstreamio-v1.57.1-arm64-v8a.apk)**  
-Version: `1.57.1` (build 60) · Size: ~82.8 MB · 2026-06-24
+**[Download KengStreamio v1.58.1]()**  
+Version: `1.58.1` (build 61) · Size: ~0 MB · 2026-06-25
 
-> • Phát hiện và tự động bỏ qua quảng cáo trong luồng phát — xem phim mượt mà hơn.
+> • Sửa lỗi ad-skip không hoạt động ở bản release (ProGuard/R8)
+> • Cập nhật domain rophim10 → rophim10.live
 
 ---
 
