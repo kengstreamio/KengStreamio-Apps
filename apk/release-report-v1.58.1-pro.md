@@ -1,6 +1,6 @@
 # 🚀 Release Report — v1.58.1 [PRO (Production)]
 
-> **Ngày:** 2026-06-25 09:19:48
+> **Ngày:** 2026-06-25 11:25:16
 
 ---
 
@@ -21,15 +21,16 @@
 
 | | URL |
 |-|-----|
-| 📦 **Download (Direct)** | []() |
+| 📦 **Download (Direct)** | [https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.58.1/kengstreamio-v1.58.1-arm64-v8a.apk](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.58.1/kengstreamio-v1.58.1-arm64-v8a.apk) |
 | 🐙 **GitHub Release** | [https://github.com/kengstreamio/KengStreamio-Apps/releases/tag/v1.58.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/tag/v1.58.1) |
 
 ---
 
 ## 📝 Release Notes
 
-> • Sửa lỗi ad-skip không hoạt động ở bản release (ProGuard/R8)
-> • Cập nhật domain rophim10 → rophim10.live
+> • Cập nhật 103 JS resolver mới nhất (2026-06-24)
+> • Thêm kiểm tra libapp.so trong APK để tránh crash native
+> • Cải thiện độ ổn định phát video
 
 ---
 

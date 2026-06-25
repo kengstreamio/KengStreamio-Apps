@@ -2,5 +2,5 @@
     "version": "v1.58.1",
     "apk_urls": {},
     "date": "2026-06-25",
-    "notes": "Sửa lỗi ad-skip không hoạt động ở bản release (ProGuard/R8)"
+    "notes": "Cập nhật 103 JS resolver mới nhất (2026-06-24)"
 }

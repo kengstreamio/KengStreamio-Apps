@@ -10,11 +10,12 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.58.1]()**  
-Version: `1.58.1` (build 61) · Size: ~0 MB · 2026-06-25
+**[Download KengStreamio v1.58.1](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.58.1/kengstreamio-v1.58.1-arm64-v8a.apk)**  
+Version: `1.58.1` (build 61) · Size: ~84.0 MB · 2026-06-25
 
-> • Sửa lỗi ad-skip không hoạt động ở bản release (ProGuard/R8)
-> • Cập nhật domain rophim10 → rophim10.live
+> • Cập nhật 103 JS resolver mới nhất (2026-06-24)
+> • Thêm kiểm tra libapp.so trong APK để tránh crash native
+> • Cải thiện độ ổn định phát video
 
 ---
 
