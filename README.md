@@ -11,7 +11,7 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 ## ⬇️ Latest Release
 
 **[Download KengStreamio v1.60.2](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.60.2/kengstreamio-v1.60.2-arm64-v8a.apk)**  
-Version: `1.60.2` (build 64) · Size: ~82.7 MB · 2026-06-26
+Version: `1.60.2` (build 64) · Size: ~82.5 MB · 2026-06-26
 
 > Bản build từ CI — v1.60.2
 
