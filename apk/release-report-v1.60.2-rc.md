@@ -1,6 +1,6 @@
 # 🚀 Release Report — v1.60.2 [RC (Test)]
 
-> **Ngày:** 2026-06-26 09:30:10
+> **Ngày:** 2026-07-10 14:53:55
 
 ---
 
@@ -13,7 +13,7 @@
 | Environment | RC (Test) |
 | APK File | `kengstreamio-v1.60.2-arm64-v8a.apk` |
 | APK Size | 82.7 MB |
-| Release Date | 2026-06-26 |
+| Release Date | 2026-07-10 |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 📝 Release Notes
 
-> Bản build từ CI — v1.60.2
+> Sửa lỗi kiểm tra domain: nguồn phim dạng API (OpenSource-1/2) bị báo lỗi sai do trang chủ trả 404 dù API vẫn hoạt động. App giờ kiểm tra qua đường dẫn API thực tế.
 
 ---
 

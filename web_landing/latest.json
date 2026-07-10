@@ -1,6 +1,6 @@
 {
     "version": "v1.60.2",
     "apk_urls": {},
-    "date": "2026-06-26",
-    "notes": "Bản build từ CI — v1.60.2"
+    "date": "2026-07-10",
+    "notes": "Sửa lỗi kiểm tra domain: nguồn phim dạng API (OpenSource-1/2) bị báo lỗi sai do trang chủ trả 404 dù API vẫn hoạt động. App giờ kiểm tra qua đường dẫn API thực tế."
 }
