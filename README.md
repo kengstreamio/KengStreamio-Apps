@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.60.2-blue)
+![Version](https://img.shields.io/badge/version-1.61.2-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,8 +10,8 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.60.2](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.60.2/kengstreamio-v1.60.2-arm64-v8a.apk)**  
-Version: `1.60.2` (build 64) · Size: ~82.7 MB · 2026-07-10
+**[Download KengStreamio v1.61.2](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.61.2/kengstreamio-v1.61.2-arm64-v8a.apk)**  
+Version: `1.61.2` (build 65) · Size: ~82.7 MB · 2026-07-10
 
 > Sửa lỗi kiểm tra domain: nguồn phim dạng API (OpenSource-1/2) bị báo lỗi sai do trang chủ trả 404 dù API vẫn hoạt động. App giờ kiểm tra qua đường dẫn API thực tế.
 
