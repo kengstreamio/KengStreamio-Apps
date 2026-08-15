@@ -1,6 +1,6 @@
 {
-    "version": "v1.61.2",
+    "version": "v1.63.0",
     "apk_urls": {},
-    "date": "2026-07-10",
-    "notes": "Sửa lỗi kiểm tra domain: nguồn phim dạng API (OpenSource-1/2) bị báo lỗi sai do trang chủ trả 404 dù API vẫn hoạt động. App giờ kiểm tra qua đường dẫn API thực tế."
+    "date": "2026-08-15",
+    "notes": "Sửa lỗi tự động bỏ qua quảng cáo: một số phim bị tua nhầm sang cuối hoặc cắt mất nội dung, nay đã nhận diện đúng vùng quảng cáo. Bổ sung tuỳ chọn bật/tắt Tự động bỏ qua quảng cáo trong Cài đặt nâng cao (mặc định bật). Sửa lỗi tua bị nhảy về đầu phim trên trình phát VLC."
 }
