@@ -183,27 +183,37 @@
                 const heroContainer = document.getElementById('hero-download-container');
                 const mainContainer = document.getElementById('main-download-container');
                 
-                let versionLabel = 'v1.16.6'; // Default fallback
+                const githubRepo = 'kengstreamio/KengStreamio-Apps';
+                const ABIS = ['arm64-v8a', 'armeabi-v7a'];
 
-                // 1. Parse JSON to get version
+                let versionLabel = 'v1.16.6'; // Default fallback
+                let envLabel = 'pro';
+                let apkUrls = {};
+
+                // 1. Parse JSON — apk_urls là nguồn URL chính xác do pipeline release ghi ra.
                 try {
                     const localRes = await fetch('latest.json?t=' + new Date().getTime());
                     if (localRes.ok) {
                         const localData = await localRes.json();
                         versionLabel = localData.version || localData.tag_name || versionLabel;
+                        envLabel = localData.env || envLabel;
+                        const fromJson = localData.apk_urls || {};
+                        ABIS.forEach(abi => { if (fromJson[abi]) apkUrls[abi] = fromJson[abi]; });
                     }
                 } catch (e) {
                     console.error('Không thể tải latest.json, sẽ dùng version mặc định', e);
                 }
 
-                // 2. ALWAYS generate 2 buttons based on the version
-                const githubRepo = 'kengstreamio/KengStreamio-Apps';
-                const baseUrl = `https://github.com/${githubRepo}/releases/download/${versionLabel}/kengstreamio-${versionLabel}`;
-                
-                const apkUrls = {
-                    "arm64-v8a": `${baseUrl}-arm64-v8a.apk`,
-                    "armeabi-v7a": `${baseUrl}-armeabi-v7a.apk`
-                };
+                // 2. Fallback khi latest.json thiếu apk_urls — phải khớp quy ước đặt tên
+                //    của tools/app-release/deploy_apk.py:
+                //      tag      = v{version}-{env}          (_release_tag)
+                //      filename = kengstreamio-{env}-v{version}-{abi}.apk  (_apk_filename)
+                //    Dựng sai một trong hai chỗ là ra link 404.
+                const bareVersion = String(versionLabel).replace(/^v/, '');
+                const baseUrl = `https://github.com/${githubRepo}/releases/download/v${bareVersion}-${envLabel}/kengstreamio-${envLabel}-v${bareVersion}`;
+                ABIS.forEach(abi => {
+                    if (!apkUrls[abi]) apkUrls[abi] = `${baseUrl}-${abi}.apk`;
+                });
 
                 // 3. Create Button HTML
                 const createBtn = (abi, url, isHero) => {
