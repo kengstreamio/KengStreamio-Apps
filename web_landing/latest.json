@@ -1,11 +1,11 @@
 {
-    "version": "v1.63.0",
-    "env": "pro",
+    "version": "v1.64.0",
+    "env": "rc",
     "apk_urls": {
-        "arm64-v8a": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.63.0-pro/kengstreamio-pro-v1.63.0-arm64-v8a.apk",
-        "armeabi-v7a": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.63.0-pro/kengstreamio-pro-v1.63.0-armeabi-v7a.apk"
+        "arm64-v8a": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.64.0-rc/kengstreamio-rc-v1.64.0-arm64-v8a.apk",
+        "armeabi-v7a": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.64.0-rc/kengstreamio-rc-v1.64.0-armeabi-v7a.apk"
     },
-    "date": "2026-08-15",
-    "notes": "Sửa lỗi tự động bỏ qua quảng cáo: một số phim bị tua nhầm sang cuối hoặc cắt mất nội dung, nay đã nhận diện đúng vùng quảng cáo. Bổ sung tuỳ chọn bật/tắt Tự động bỏ qua quảng cáo trong Cài đặt nâng cao (mặc định bật). Sửa lỗi tua bị nhảy về đầu phim trên trình phát VLC.",
-    "apk_url": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.63.0-pro/kengstreamio-pro-v1.63.0-arm64-v8a.apk"
+    "date": "2026-09-05",
+    "notes": "Bản build từ CI — v1.64.0",
+    "apk_url": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.64.0-rc/kengstreamio-rc-v1.64.0-arm64-v8a.apk"
 }

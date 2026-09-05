@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.63.0-blue)
+![Version](https://img.shields.io/badge/version-1.64.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,10 +10,10 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.63.0](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.63.0-pro/kengstreamio-pro-v1.63.0-arm64-v8a.apk)**  
-Version: `1.63.0` (build 71) · Size: ~82.5 MB · 2026-08-15
+**[Download KengStreamio v1.64.0](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.64.0-rc/kengstreamio-rc-v1.64.0-arm64-v8a.apk)**  
+Version: `1.64.0` (build 71) · Size: ~82.7 MB · 2026-09-05
 
-> Sửa lỗi tự động bỏ qua quảng cáo: một số phim bị tua nhầm sang cuối hoặc cắt mất nội dung, nay đã nhận diện đúng vùng quảng cáo. Bổ sung tuỳ chọn bật/tắt Tự động bỏ qua quảng cáo trong Cài đặt nâng cao (mặc định bật). Sửa lỗi tua bị nhảy về đầu phim trên trình phát VLC.
+> Bản build từ CI — v1.64.0
 
 ---
 
