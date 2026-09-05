@@ -1,11 +1,11 @@
 {
-    "version": "v1.64.0",
+    "version": "v1.65.0",
     "env": "pro",
     "apk_urls": {
-        "arm64-v8a": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.64.0-pro/kengstreamio-pro-v1.64.0-arm64-v8a.apk",
-        "armeabi-v7a": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.64.0-pro/kengstreamio-pro-v1.64.0-armeabi-v7a.apk"
+        "arm64-v8a": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.65.0-pro/kengstreamio-pro-v1.65.0-arm64-v8a.apk",
+        "armeabi-v7a": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.65.0-pro/kengstreamio-pro-v1.65.0-armeabi-v7a.apk"
     },
     "date": "2026-09-05",
-    "notes": "Bản build từ CI — v1.64.0",
-    "apk_url": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.64.0-pro/kengstreamio-pro-v1.64.0-arm64-v8a.apk"
+    "notes": "Nâng cấp bộ build Android; sửa điều hướng D-pad trên TV",
+    "apk_url": "https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.65.0-pro/kengstreamio-pro-v1.65.0-arm64-v8a.apk"
 }

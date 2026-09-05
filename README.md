@@ -1,6 +1,6 @@
 # KengStreamio — Android App Releases
 
-![Version](https://img.shields.io/badge/version-1.64.0-blue)
+![Version](https://img.shields.io/badge/version-1.65.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![License](https://img.shields.io/badge/license-Private-red)
 
@@ -10,10 +10,10 @@ Trang phân phối APK chính thức của **KengStreamio** — ứng dụng xem
 
 ## ⬇️ Latest Release
 
-**[Download KengStreamio v1.64.0](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.64.0-pro/kengstreamio-pro-v1.64.0-arm64-v8a.apk)**  
-Version: `1.64.0` (build 71) · Size: ~82.5 MB · 2026-09-05
+**[Download KengStreamio v1.65.0](https://github.com/kengstreamio/KengStreamio-Apps/releases/download/v1.65.0-pro/kengstreamio-pro-v1.65.0-arm64-v8a.apk)**  
+Version: `1.65.0` (build 72) · Size: ~82.9 MB · 2026-09-05
 
-> Bản build từ CI — v1.64.0
+> Nâng cấp bộ build Android; sửa điều hướng D-pad trên TV
 
 ---
 
